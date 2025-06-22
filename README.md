@@ -8,7 +8,7 @@ By accessing or using this service, you agree to be bound by the following Terms
 
 ## 1. Description of Service
 
-autoPosting provides developers with a testing interface for posting content to TikTok via the official TikTok Content Posting API. It is intended solely for **development and testing purposes**, and is not meant for public or commercial use.
+autoPosting provides developers with a testing interface for posting content to TikTok via the official TikTok Content Posting API. It is intended solely for **development and testing purposes**
 
 ## 2. Developer Use Only
 
@@ -28,5 +28,5 @@ We reserve the right to update or modify these Terms of Service at any time. Any
 
 ## 6. Contact
 
-If you have any questions about these Terms, please contact the developer at:
+If you have any questions about these Terms, please contact the developer at: sataisfying@gmail.com
 
