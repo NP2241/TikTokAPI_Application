@@ -1,43 +1,47 @@
-# Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
 
-**Last updated:** June 22, 2025
+  <p><strong>Last updated:</strong> June 22, 2025</p>
 
-This Privacy Policy applies to the use of the **autoPosting** application, a developer tool designed for testing TikTok’s Content Posting API in a local development environment.
+  <p>This Privacy Policy applies to the use of the <strong>autoPosting</strong> application, a developer tool designed for testing TikTok’s Content Posting API in a local development environment.</p>
 
----
+  <hr>
 
-## 1. Data Collection
+  <h2>1. Data Collection</h2>
+  <p>This application does <strong>not</strong> collect or store any personal data. All access tokens, user IDs, and content are used temporarily in memory for testing purposes only.</p>
 
-This application does **not** collect or store any personal data. All access tokens, user IDs, and content are used temporarily in memory for testing purposes only.
+  <hr>
 
----
+  <h2>2. Local Use Only</h2>
+  <p>The application is intended solely for <strong>local development</strong> and <strong>sandbox testing</strong>. No user data is transmitted to or stored on any external server controlled by the developer.</p>
 
-## 2. Local Use Only
+  <hr>
 
-The application is intended solely for **local development** and **sandbox testing**. No user data is transmitted to or stored on any external server controlled by the developer.
+  <h2>3. Third-Party Services</h2>
+  <p>The app uses the TikTok API for authentication and content posting. Any data shared during authentication is handled directly by TikTok in accordance with their own <a href="https://www.tiktok.com/legal/privacy-policy">Privacy Policy</a>.</p>
 
----
+  <hr>
 
-## 3. Third-Party Services
+  <h2>4. Security</h2>
+  <p>Since this app runs locally and does not process or store data in the cloud, no special data protection mechanisms are in place. Users are responsible for securing their own environments during testing.</p>
 
-The app uses the TikTok API for authentication and content posting. Any data shared during authentication is handled directly by TikTok in accordance with their own [Privacy Policy](https://www.tiktok.com/legal/privacy-policy).
+  <hr>
 
----
+  <h2>5. Changes to This Policy</h2>
+  <p>This Privacy Policy may be updated from time to time. Any changes will be reflected on this page with a new “Last updated” date.</p>
 
-## 4. Security
+  <hr>
 
-Since this app runs locally and does not process or store data in the cloud, no special data protection mechanisms are in place. Users are responsible for securing their own environments during testing.
-
----
-
-## 5. Changes to This Policy
-
-This Privacy Policy may be updated from time to time. Any changes will be reflected on this page with a new “Last updated” date.
-
----
-
-## 6. Contact
-
-If you have any questions or concerns about this Privacy Policy, please contact the developer at:
-
-- **Email:** sataisfying@gmail.com
+  <h2>6. Contact</h2>
+  <p>If you have any questions or concerns about this Privacy Policy, please contact the developer at:</p>
+  <ul>
+    <li><strong>Email:</strong> sataisfying@gmail.com</li>
+  </ul>
+</body>
+</html>
